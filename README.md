@@ -1,4 +1,5 @@
 🕒 Encryption-Based Time Verification in Digital Forensics
+
 This repository documents my graduation project at the British Columbia Institute of Technology (BCIT), which explores the use of encryption using VeraCrypt as an indirect method for timestamp verification in digital forensic investigations.
 
 🔍 Project Summary
